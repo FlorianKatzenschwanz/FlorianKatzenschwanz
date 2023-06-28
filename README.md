@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @FlorianKatzenschwanz
-- 👀 I’m interested in ...
 - 🌱 I’m currently studying robotics
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: florian.katzenschwanz@student.tu-freiberg.de
 
 <!---
